@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_41_訪問入浴介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "あいあい入浴【訪問入浴介護】佐賀市唐人一丁目５番９号", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170100301-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.298311983467102, 33.258579811871186 ] } },
+{ "type": "Feature", "properties": { "内容": "アサヒサンクリーン在宅介護センター佐賀【訪問入浴介護】佐賀県佐賀市多布施2-6-22西田ビル　１階", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170101861-00&ServiceCd=120&Type=search", "url2": "http://www.asahi-sun-clean.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.289220101513394, 33.258777467200474 ] } },
+{ "type": "Feature", "properties": { "内容": "セントケア佐賀訪問入浴【訪問入浴介護】佐賀県佐賀市兵庫南三丁目1番19号", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170103057-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.317098, 33.2648706 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問入浴サービスのぞみ【訪問入浴介護】佐賀県唐津市養母田553-1", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4150280032-00&ServiceCd=120&Type=search", "url2": "http://www.shujinkai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 129.984463099999971, 33.4127368 ] } },
+{ "type": "Feature", "properties": { "内容": "済生会指定訪問入浴介護寿楽荘【訪問入浴介護】佐賀県唐津市西旗町7番1号", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170200226-00&ServiceCd=120&Type=search", "url2": "http://www.jurakuso.com" }, "geometry": { "type": "Point", "coordinates": [ 129.962247700000034, 33.4552621 ] } },
+{ "type": "Feature", "properties": { "内容": "介護サービスohana合同会社【訪問入浴介護】佐賀県伊万里市新天町２８６－１", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170501029-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 129.8740339, 33.2690171 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問入浴「ありた」【訪問入浴介護】佐賀県西松浦郡有田町南原甲６６４番地４", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4171500012-00&ServiceCd=120&Type=search", "url2": "http://arita-shakyo.com/" }, "geometry": { "type": "Point", "coordinates": [ 129.863844792312648, 33.192892301298251 ] } }
+]
+}

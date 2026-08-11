@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_41_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "シニアライフＳＯＲＡ【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】鳥栖市山浦町２９６３", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170300901-00&ServiceCd=&Type=search", "url2": "http://www.douan.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.486485759524527, 33.38319843393873 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き高齢者住宅　虹のわ多久【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】佐賀県多久市東多久町大字別府4677-1介護付き高齢者住宅　虹のわ多久", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170400370-00&ServiceCd=&Type=search", "url2": "http://saga-iryou-s.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.1431614, 33.283036800000019 ] } }
+]
+}

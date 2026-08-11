@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_41_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "古賀小児科内科病院介護医療院【短期入所療養介護（介護医療院）】佐賀県杵島郡江北町大字上小田280-1", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=41B1600011-00&ServiceCd=551&Type=search", "url2": "https://eijyukai-saga.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.144958699999989, 33.2259167 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_41_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス　大地【特定施設入居者生活介護（軽費老人ホーム）】佐賀県多久市北多久町大字小侍132-6", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4170400057-00&ServiceCd=332&Type=search", "url2": "http://www.tenjyukai.com" }, "geometry": { "type": "Point", "coordinates": [ 130.111737787171933, 33.298185681536474 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスあおぞら【特定施設入居者生活介護（軽費老人ホーム）】佐賀県三養基郡基山町大字園部2307番地", "url": "https://www.kaigokensaku.mhlw.go.jp/41/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4151280023-00&ServiceCd=332&Type=search", "url2": "http://www.jurakuen.jp/" }, "geometry": { "type": "Point", "coordinates": [ 130.501295199999959, 33.4181642 ] } }
+]
+}
