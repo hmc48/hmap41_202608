@@ -1,0 +1,8105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.531364,
+          33.4408968
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速基山",
+        "name": "高速基山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5319767,
+          33.4411087
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速基山",
+        "name": "高速基山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850265,
+          33.2012999
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蔵宿バス停",
+        "name": "蔵宿バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4999951,
+          33.3302217
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下野",
+        "name": "下野",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8821889,
+          33.183081
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 有田駅前",
+        "name": "有田駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850408,
+          33.206136
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850165,
+          33.209602
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.108365,
+          33.28634
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北部小学校前",
+        "name": "北部小学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1083828,
+          33.2862703
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北部小学校前",
+        "name": "北部小学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.86577,
+          33.190624
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850561,
+          33.206018
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850669,
+          33.219708
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.850468,
+          33.241705
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.890744,
+          33.265621
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.853978,
+          33.194987
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 曲川小学校前",
+        "name": "曲川小学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8790245,
+          33.5286485
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名護屋港入口",
+        "name": "名護屋港入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8758648,
+          33.5287424
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鎮西支所前",
+        "name": "鎮西支所前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8791264,
+          33.528568
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名護屋港入口",
+        "name": "名護屋港入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8758592,
+          33.5286622
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鎮西支所前",
+        "name": "鎮西支所前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8739609,
+          33.5289155
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名護屋城博物館入口",
+        "name": "名護屋城博物館入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8739765,
+          33.5289867
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名護屋城博物館入口",
+        "name": "名護屋城博物館入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1990481,
+          33.2934578
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小城バスセンター",
+        "name": "小城バスセンター",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2973563,
+          33.2654056
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 佐賀駅北口",
+        "name": "佐賀駅北口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2971598,
+          33.2655943
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 佐賀駅北口",
+        "name": "佐賀駅北口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3353654,
+          33.2054888
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 早津江 (西鉄バス久留米)",
+        "name": "早津江",
+        "operator": "西鉄バス久留米",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.878739,
+          33.18382
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中部小学校北",
+        "name": "中部小学校北",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8977263,
+          33.1895514
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 札の辻 (西肥バス)",
+        "name": "札の辻",
+        "operator": "西肥バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.865818,
+          33.190644
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8530364,
+          33.1807917
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 原明",
+        "name": "原明",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.86316,
+          33.188714
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三代橋",
+        "name": "三代橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8541188,
+          33.1836231
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伊万里口",
+        "name": "伊万里口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.885022,
+          33.181742
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 桑木場入口",
+        "name": "桑木場入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.863799,
+          33.1924309
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 福祉保健センター",
+        "name": "福祉保健センター",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.901698,
+          33.191368
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2027577,
+          33.2927475
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蛭子町バス停",
+        "name": "蛭子町バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1996946,
+          33.2902903
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 本町バス停",
+        "name": "本町バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.207178,
+          33.2996537
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高原バス停",
+        "name": "高原バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2041793,
+          33.3003935
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上町バス停",
+        "name": "上町バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2661634,
+          33.2605186
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9820549,
+          33.0966795
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8924804,
+          33.2363482
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Okawachiyama",
+        "name": "Okawachiyama",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9756015,
+          33.4499996
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4449029,
+          33.297419
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西島",
+        "name": "西島",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4380196,
+          33.2972377
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 本分",
+        "name": "本分",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3989985,
+          33.2800958
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 又南里",
+        "name": "又南里",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3786242,
+          33.2761163
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嘉納",
+        "name": "嘉納",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3526641,
+          33.2631322
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西原の町",
+        "name": "西原の町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3362089,
+          33.2575175
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道崎",
+        "name": "道崎",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415316,
+          33.2868253
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 寄人橋",
+        "name": "寄人橋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4048107,
+          33.282464
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 藤ノ木",
+        "name": "藤ノ木",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3856247,
+          33.2773436
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西分",
+        "name": "西分",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3732259,
+          33.2748493
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 直鳥",
+        "name": "直鳥",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.358577,
+          33.2660762
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 境原",
+        "name": "境原",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4198923,
+          33.2890165
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 和泉",
+        "name": "和泉",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3283067,
+          33.254797
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 巨勢公民館前",
+        "name": "巨勢公民館前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3056635,
+          33.2535738
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 呉服元町",
+        "name": "呉服元町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3588895,
+          33.2666277
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 境原",
+        "name": "境原",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4307724,
+          33.2953063
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 江見",
+        "name": "江見",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3916705,
+          33.3241911
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉野ケ里歴史公園前",
+        "name": "吉野ケ里歴史公園前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.494193,
+          33.3597479
+        ]
+      },
+      "properties": {
+        "内容": "バス停: B S 工場前",
+        "name": "B S 工場前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4849875,
+          33.3567646
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 村田",
+        "name": "村田",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3373277,
+          33.275038
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 掘立 (佐賀市営バス;昭和バス;西鉄バス佐賀)",
+        "name": "掘立",
+        "operator": "佐賀市営バス;昭和バス;西鉄バス佐賀",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3424146,
+          33.1789919
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大詫間バス停 (佐賀市交通局)",
+        "name": "大詫間バス停",
+        "operator": "佐賀市交通局",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3423902,
+          33.1827481
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上の小路",
+        "name": "上の小路",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8543326,
+          33.1843936
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伊万里口",
+        "name": "伊万里口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8764555,
+          33.2719176
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伊万里駅前",
+        "name": "伊万里駅前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2960289,
+          33.2392836
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大井樋",
+        "name": "大井樋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.78234,
+          33.3210587
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西分",
+        "name": "西分",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.298494,
+          33.2608592
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 駅南本町",
+        "name": "駅南本町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2959658,
+          33.2391469
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大井樋",
+        "name": "大井樋",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2943004,
+          33.24163
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 佐賀大学東",
+        "name": "佐賀大学東",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2937138,
+          33.2440172
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 佐賀大学前",
+        "name": "佐賀大学前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3001205,
+          33.2513362
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県庁前",
+        "name": "県庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3002595,
+          33.2515286
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県庁前",
+        "name": "県庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2999695,
+          33.2540596
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中の小路",
+        "name": "中の小路",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2998426,
+          33.2537526
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中の小路",
+        "name": "中の小路",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2997384,
+          33.25529
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 白山",
+        "name": "白山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2989884,
+          33.2587666
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 唐人町",
+        "name": "唐人町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.398842,
+          33.3249777
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉野ヶ里公園駅北口 (吉野ヶ里町コミュニティバス)",
+        "name": "吉野ヶ里公園駅北口",
+        "operator": "吉野ヶ里町コミュニティバス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3995032,
+          33.3247035
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 吉野ヶ里公園駅 (吉野ヶ里町コミュニティバス)",
+        "name": "吉野ヶ里公園駅",
+        "operator": "吉野ヶ里町コミュニティバス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2938559,
+          33.2709773
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 商業高校前",
+        "name": "商業高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2941279,
+          33.2717345
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 商業高校前",
+        "name": "商業高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3288385,
+          33.1901648
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3977026,
+          33.3480763
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中副",
+        "name": "中副",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3911347,
+          33.3217649
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 田手村",
+        "name": "田手村",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3012139,
+          33.2626041
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市役所南",
+        "name": "市役所南",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4124228,
+          33.2854838
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 直代",
+        "name": "直代",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2985173,
+          33.2505671
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県庁前",
+        "name": "県庁前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3999412,
+          33.3239055
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三田川",
+        "name": "三田川",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3013089,
+          33.3191622
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立（上り）",
+        "name": "金立（上り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3010461,
+          33.3188562
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立（下り）",
+        "name": "金立（下り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3025374,
+          33.32061
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 正現社前（上り）",
+        "name": "正現社前（上り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3023939,
+          33.3206123
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 正現社前（下り）",
+        "name": "正現社前（下り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3052182,
+          33.3282076
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弘学館前（下り）",
+        "name": "弘学館前（下り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3052893,
+          33.3280239
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弘学館前（上り）",
+        "name": "弘学館前（上り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3089344,
+          33.3283813
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立いこいの広場（運転免許C方面）",
+        "name": "金立いこいの広場（運転免許C方面）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3086448,
+          33.3282513
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立いこいの広場（佐賀駅方面）",
+        "name": "金立いこいの広場（佐賀駅方面）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3127941,
+          33.3287511
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立バスストップ（下り）",
+        "name": "金立バスストップ（下り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3103936,
+          33.3295489
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 金立バスストップ（上り）",
+        "name": "金立バスストップ（上り）",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3740846,
+          33.3162652
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西九州大学送迎バス 発着所 (学校法人永原学園 西九州大学)",
+        "name": "西九州大学送迎バス 発着所",
+        "operator": "学校法人永原学園 西九州大学",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3744749,
+          33.3155782
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神埼駅 (神埼市)",
+        "name": "神埼駅",
+        "operator": "神埼市",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.369885,
+          33.3480771
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速神埼 上り",
+        "name": "高速神埼 上り",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3700982,
+          33.3477886
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速神埼 下り",
+        "name": "高速神埼 下り",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11588852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0238835,
+          33.1963573
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄温泉駅南口",
+        "name": "武雄温泉駅南口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0221988,
+          33.1962689
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄温泉駅（北口） (祐徳自動車)",
+        "name": "武雄温泉駅（北口）",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0221175,
+          33.1960827
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄温泉駅（北口） (祐徳自動車)",
+        "name": "武雄温泉駅（北口）",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9994601,
+          33.4217935
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 生駒 (昭和バス)",
+        "name": "生駒",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9997162,
+          33.4224297
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 生駒 (昭和バス)",
+        "name": "生駒",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9863278,
+          33.406089
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久里 (昭和バス)",
+        "name": "久里",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9868146,
+          33.4062054
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久里 (昭和バス)",
+        "name": "久里",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0586609,
+          33.1278348
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野市役所塩田庁舎前 (祐徳自動車)",
+        "name": "嬉野市役所塩田庁舎前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3022255,
+          33.2547082
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 市営バス　エスプラッツ前 (市営バス)",
+        "name": "市営バス　エスプラッツ前",
+        "operator": "市営バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2988845,
+          33.2591328
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 唐人町(1)",
+        "name": "唐人町(1)",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9970923,
+          33.106957
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野高校前 (祐徳自動車)",
+        "name": "嬉野高校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9695103,
+          33.4493491
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 唐津大手口バスセンター",
+        "name": "唐津大手口バスセンター",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11418624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9890569,
+          33.4319606
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3353649,
+          33.210947
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3535456,
+          33.2226604
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.34486,
+          33.2265242
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 野町",
+        "name": "野町",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3491092,
+          33.2246232
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小杭",
+        "name": "小杭",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3100999,
+          33.2416947
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大崎",
+        "name": "大崎",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.316682,
+          33.2390846
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 南佐賀",
+        "name": "南佐賀",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3078756,
+          33.2461369
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3066076,
+          33.2484721
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大隈重信記念館入口",
+        "name": "大隈重信記念館入口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2790721,
+          33.3139274
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高志館高校前",
+        "name": "高志館高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2803394,
+          33.2998712
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2773032,
+          33.316059
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高志館高校前",
+        "name": "高志館高校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0234743,
+          33.1017387
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 七ツ川内 (祐徳自動車)",
+        "name": "七ツ川内",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0192207,
+          33.1018816
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下吉田 (祐徳自動車)",
+        "name": "下吉田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0172947,
+          33.1058394
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下永尾 (祐徳自動車)",
+        "name": "下永尾",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0155806,
+          33.1093063
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 広瀬橋 (祐徳自動車)",
+        "name": "広瀬橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0284942,
+          33.074631
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮の上 (嬉野市乗合タクシー)",
+        "name": "宮の上",
+        "operator": "嬉野市乗合タクシー",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9975967,
+          33.1076247
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野高校前 (祐徳自動車)",
+        "name": "嬉野高校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5012279,
+          33.3952376
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速鳥栖神辺",
+        "name": "高速鳥栖神辺",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5016586,
+          33.3950018
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速鳥栖神辺",
+        "name": "高速鳥栖神辺",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11590903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4389304,
+          33.361935
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速中原",
+        "name": "高速中原",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.439609,
+          33.3617849
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高速中原",
+        "name": "高速中原",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": "Q11363106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9872487,
+          33.4483039
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2024534,
+          32.9589384
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県界",
+        "name": "県界",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2024052,
+          32.9590599
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 県界",
+        "name": "県界",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9573436,
+          33.46136
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 昭和バス西唐津駅前 (昭和バス)",
+        "name": "昭和バス西唐津駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.5103699,
+          33.4061956
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鳥栖プレミアム・アウトレット",
+        "name": "鳥栖プレミアム・アウトレット",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2996637,
+          33.2548306
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 白山",
+        "name": "白山",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9476252,
+          33.373216
+        ]
+      },
+      "properties": {
+        "内容": "バス停: Kitahata",
+        "name": "Kitahata",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3008127,
+          33.2703747
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 藤木",
+        "name": "藤木",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.300058,
+          33.2735623
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 佐賀北警察署前",
+        "name": "佐賀北警察署前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0941551,
+          33.1098482
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公園入口 (祐徳自動車)",
+        "name": "公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0636223,
+          33.140544
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下久間 (祐徳自動車)",
+        "name": "下久間",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0629338,
+          33.1473679
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 志田原 (祐徳自動車)",
+        "name": "志田原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0630928,
+          33.1358155
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 牛間田新道 (祐徳自動車)",
+        "name": "牛間田新道",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0612843,
+          33.1319101
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田下町 (祐徳自動車)",
+        "name": "塩田下町",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0614745,
+          33.1321089
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田下町 (祐徳自動車)",
+        "name": "塩田下町",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0592561,
+          33.1285821
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野市役所塩田庁舎前 (祐徳自動車)",
+        "name": "嬉野市役所塩田庁舎前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0626867,
+          33.1256344
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五町田 (祐徳自動車)",
+        "name": "五町田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0718181,
+          33.1243999
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 真崎 (祐徳自動車)",
+        "name": "真崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0791802,
+          33.1233603
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大牟田 (祐徳自動車)",
+        "name": "大牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0792961,
+          33.1234981
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 大牟田 (祐徳自動車)",
+        "name": "大牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0854189,
+          33.1221554
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五の宮 (祐徳自動車)",
+        "name": "五の宮",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0869791,
+          33.110035
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西牟田西 (祐徳自動車)",
+        "name": "西牟田西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.088513,
+          33.1101305
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西牟田 (祐徳自動車)",
+        "name": "西牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0883622,
+          33.1100755
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西牟田 (祐徳自動車)",
+        "name": "西牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1095791,
+          33.0542084
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 永田 (祐徳自動車)",
+        "name": "永田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1112869,
+          33.093523
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 工場団地入口 (祐徳自動車)",
+        "name": "工場団地入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1116258,
+          33.0956988
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜三ツ角西 (祐徳自動車)",
+        "name": "浜三ツ角西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.118533,
+          33.0923024
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前浜宿前 (祐徳自動車)",
+        "name": "肥前浜宿前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1214581,
+          33.0897732
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜崎 (祐徳自動車)",
+        "name": "浜崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1028062,
+          33.0966009
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 誕生院前 (祐徳自動車)",
+        "name": "誕生院前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1086956,
+          33.0971637
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 石木津 (祐徳自動車)",
+        "name": "石木津",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1117346,
+          33.0957268
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜三ツ角西 (祐徳自動車)",
+        "name": "浜三ツ角西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1019226,
+          33.1043194
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小舟津 (祐徳自動車)",
+        "name": "小舟津",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1058218,
+          33.102581
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島農協入口 (祐徳自動車)",
+        "name": "鹿島農協入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1079603,
+          33.1008518
+        ]
+      },
+      "properties": {
+        "内容": "バス停: しめご橋 (祐徳自動車)",
+        "name": "しめご橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1058137,
+          33.1025149
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島農協入口 (祐徳自動車)",
+        "name": "鹿島農協入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0842077,
+          33.1057053
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 黒川 (祐徳自動車)",
+        "name": "黒川",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0803297,
+          33.1006679
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伏原入口 (祐徳自動車)",
+        "name": "伏原入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0764605,
+          33.0978142
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浅浦入口 (祐徳自動車)",
+        "name": "浅浦入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0766592,
+          33.0976916
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浅浦入口 (祐徳自動車)",
+        "name": "浅浦入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0701594,
+          33.0992287
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平山 (祐徳自動車)",
+        "name": "平山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0696076,
+          33.099628
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 平山 (祐徳自動車)",
+        "name": "平山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0509073,
+          33.1280688
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下野辺田 (祐徳自動車)",
+        "name": "下野辺田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0509922,
+          33.1282645
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下野辺田 (祐徳自動車)",
+        "name": "下野辺田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0435955,
+          33.1264392
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田小学校前 (祐徳自動車)",
+        "name": "塩田小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0395615,
+          33.126866
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮の元 (祐徳自動車)",
+        "name": "宮の元",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0324826,
+          33.1302818
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 美野入口 (祐徳自動車)",
+        "name": "美野入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0635864,
+          33.1372418
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 牛間田新道 (祐徳自動車)",
+        "name": "牛間田新道",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0637912,
+          33.1398445
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下久間 (祐徳自動車)",
+        "name": "下久間",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0631131,
+          33.1481732
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 志田原 (祐徳自動車)",
+        "name": "志田原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0304272,
+          33.1328893
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩吹 (祐徳自動車)",
+        "name": "塩吹",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0247679,
+          33.1365256
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 橋山入口 (祐徳自動車)",
+        "name": "橋山入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0150039,
+          33.135229
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 万才 (祐徳自動車)",
+        "name": "万才",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0307743,
+          33.1321934
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩吹 (祐徳自動車)",
+        "name": "塩吹",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.032514,
+          33.130405
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 美野入口 (祐徳自動車)",
+        "name": "美野入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0402097,
+          33.126917
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮の元 (祐徳自動車)",
+        "name": "宮の元",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0434506,
+          33.1263338
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田小学校前 (祐徳自動車)",
+        "name": "塩田小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0597204,
+          33.1269097
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野市役所塩田庁舎前 (祐徳自動車)",
+        "name": "嬉野市役所塩田庁舎前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0244698,
+          33.1365112
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 橋山入口 (祐徳自動車)",
+        "name": "橋山入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0158796,
+          33.1355832
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 万才 (祐徳自動車)",
+        "name": "万才",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0643154,
+          33.1507565
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 冬野入口 (祐徳自動車)",
+        "name": "冬野入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0642021,
+          33.1508195
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 冬野入口 (祐徳自動車)",
+        "name": "冬野入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.062878,
+          33.1570734
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西山 (祐徳自動車)",
+        "name": "西山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0629924,
+          33.1569786
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西山 (祐徳自動車)",
+        "name": "西山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0613181,
+          33.1617157
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北志田 (祐徳自動車)",
+        "name": "北志田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0609115,
+          33.1620629
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 北志田 (祐徳自動車)",
+        "name": "北志田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0577485,
+          33.1663496
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 楢崎 (祐徳自動車)",
+        "name": "楢崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0575194,
+          33.1662292
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 楢崎 (祐徳自動車)",
+        "name": "楢崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0507545,
+          33.168768
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上野 (祐徳自動車)",
+        "name": "上野",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0507916,
+          33.1689368
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上野 (祐徳自動車)",
+        "name": "上野",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0483777,
+          33.1744553
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 郷の木 (祐徳自動車)",
+        "name": "郷の木",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0482495,
+          33.1743618
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 郷の木 (祐徳自動車)",
+        "name": "郷の木",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0386745,
+          33.1847242
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 永島 (祐徳自動車)",
+        "name": "永島",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0381422,
+          33.184915
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 永島 (祐徳自動車)",
+        "name": "永島",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0268593,
+          33.1872645
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 御船が丘小学校前 (祐徳自動車)",
+        "name": "御船が丘小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0210358,
+          33.1893454
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄高校前 (祐徳自動車)",
+        "name": "武雄高校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0205413,
+          33.1896284
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄高校前 (祐徳自動車)",
+        "name": "武雄高校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0627248,
+          33.125729
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五町田 (祐徳自動車)",
+        "name": "五町田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0723427,
+          33.1244197
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 真崎 (祐徳自動車)",
+        "name": "真崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0858688,
+          33.1220687
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五の宮 (祐徳自動車)",
+        "name": "五の宮",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0915422,
+          33.1223772
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 貝の橋 (祐徳自動車)",
+        "name": "貝の橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0915881,
+          33.1224636
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 貝の橋 (祐徳自動車)",
+        "name": "貝の橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0969057,
+          33.1200128
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 乙丸西 (祐徳自動車)",
+        "name": "乙丸西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0951629,
+          33.116407
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島本町西 (祐徳自動車)",
+        "name": "鹿島本町西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0952583,
+          33.1164005
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島本町西 (祐徳自動車)",
+        "name": "鹿島本町西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0966806,
+          33.1193174
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 乙丸西 (祐徳自動車)",
+        "name": "乙丸西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1018492,
+          33.0982147
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ララベル前 (祐徳自動車)",
+        "name": "ララベル前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0968683,
+          33.1140036
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前鹿島駅前 (祐徳自動車)",
+        "name": "肥前鹿島駅前",
+        "operator": "祐徳自動車",
+        "ref": "2",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0967481,
+          33.1140901
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前鹿島駅前 (祐徳自動車)",
+        "name": "肥前鹿島駅前",
+        "operator": "祐徳自動車",
+        "ref": "3",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.096992,
+          33.1140427
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前鹿島駅前 (祐徳自動車)",
+        "name": "肥前鹿島駅前",
+        "operator": "祐徳自動車",
+        "ref": "1",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0978021,
+          33.1077579
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中川 (祐徳自動車)",
+        "name": "中川",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0977613,
+          33.1073804
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中川 (祐徳自動車)",
+        "name": "中川",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0972932,
+          33.1101435
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中牟田 (祐徳自動車)",
+        "name": "中牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0974413,
+          33.11016
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中牟田 (祐徳自動車)",
+        "name": "中牟田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0989928,
+          33.1045431
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島市役所・エイブル前",
+        "name": "鹿島市役所・エイブル前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1010533,
+          33.0986561
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末光 (祐徳自動車)",
+        "name": "末光",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.110989,
+          33.0931156
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 工場団地入口 (祐徳自動車)",
+        "name": "工場団地入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.112495,
+          33.0951895
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜三ツ角 (祐徳自動車)",
+        "name": "浜三ツ角",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1124232,
+          33.0950145
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜三ツ角 (祐徳自動車)",
+        "name": "浜三ツ角",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1162451,
+          33.0939496
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前浜駅入口(浜駅前) (祐徳自動車)",
+        "name": "肥前浜駅入口(浜駅前)",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.114963,
+          33.0943901
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前浜駅入口(浜駅前) (祐徳自動車)",
+        "name": "肥前浜駅入口(浜駅前)",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1185903,
+          33.0918508
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前浜宿前 (祐徳自動車)",
+        "name": "肥前浜宿前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1219352,
+          33.0897361
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 浜崎 (祐徳自動車)",
+        "name": "浜崎",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1284287,
+          33.0879628
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新方 (祐徳自動車)",
+        "name": "新方",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1278574,
+          33.0882303
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 新方 (祐徳自動車)",
+        "name": "新方",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1330384,
+          33.0874956
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西葉 (祐徳自動車)",
+        "name": "西葉",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1327407,
+          33.0874711
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西葉 (祐徳自動車)",
+        "name": "西葉",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1385397,
+          33.0805491
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩屋橋 (祐徳自動車)",
+        "name": "塩屋橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1399102,
+          33.0797568
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩屋橋 (祐徳自動車)",
+        "name": "塩屋橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1428482,
+          33.0785309
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮道 (祐徳自動車)",
+        "name": "宮道",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1429533,
+          33.0785708
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮道 (祐徳自動車)",
+        "name": "宮道",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.144957,
+          33.0762213
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道の駅鹿島前 (祐徳自動車)",
+        "name": "道の駅鹿島前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1452002,
+          33.0756555
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道の駅鹿島前 (祐徳自動車)",
+        "name": "道の駅鹿島前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1458357,
+          33.0720846
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前七浦駅前 (祐徳自動車)",
+        "name": "肥前七浦駅前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1461681,
+          33.0720897
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 肥前七浦駅前 (祐徳自動車)",
+        "name": "肥前七浦駅前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.149209,
+          33.0692148
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 七浦郵便局前 (祐徳自動車)",
+        "name": "七浦郵便局前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1489116,
+          33.0695994
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 七浦郵便局前 (祐徳自動車)",
+        "name": "七浦郵便局前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1497777,
+          33.0672795
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 七浦小学校入口 (祐徳自動車)",
+        "name": "七浦小学校入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1507636,
+          33.0670274
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 七浦小学校入口 (祐徳自動車)",
+        "name": "七浦小学校入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1543536,
+          33.0635619
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢の浦 (祐徳自動車)",
+        "name": "矢の浦",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1545624,
+          33.0636316
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢の浦 (祐徳自動車)",
+        "name": "矢の浦",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1602215,
+          33.055742
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 飯田 (祐徳自動車)",
+        "name": "飯田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1603983,
+          33.0557726
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 飯田 (祐徳自動車)",
+        "name": "飯田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1657676,
+          33.0527083
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 江福 (祐徳自動車)",
+        "name": "江福",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1657068,
+          33.0525895
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 江福 (祐徳自動車)",
+        "name": "江福",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.169037,
+          33.048194
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道の駅太良前 (祐徳自動車)",
+        "name": "道の駅太良前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1687027,
+          33.0470021
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 道の駅太良前 (祐徳自動車)",
+        "name": "道の駅太良前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1698349,
+          33.0430743
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伊福 (祐徳自動車)",
+        "name": "伊福",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1699057,
+          33.0432197
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伊福 (祐徳自動車)",
+        "name": "伊福",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1711442,
+          33.0383964
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 江岡 (祐徳自動車)",
+        "name": "江岡",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1713483,
+          33.0383629
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 江岡 (祐徳自動車)",
+        "name": "江岡",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1701638,
+          33.0346697
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 太良高校正門前 (祐徳自動車)",
+        "name": "太良高校正門前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1701216,
+          33.0345879
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 太良高校正門前 (祐徳自動車)",
+        "name": "太良高校正門前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1752391,
+          33.0318078
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 多良栄町・海中鳥居前 (祐徳自動車)",
+        "name": "多良栄町・海中鳥居前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1753499,
+          33.0318169
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 多良栄町・海中鳥居前 (祐徳自動車)",
+        "name": "多良栄町・海中鳥居前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1029947,
+          33.0960566
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 誕生院前 (祐徳自動車)",
+        "name": "誕生院前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1054208,
+          33.0886312
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久保山 (祐徳自動車)",
+        "name": "久保山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1056134,
+          33.0885671
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久保山 (祐徳自動車)",
+        "name": "久保山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1087024,
+          33.0823862
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 古枝小学校前 (祐徳自動車)",
+        "name": "古枝小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1088336,
+          33.0825682
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 古枝小学校前 (祐徳自動車)",
+        "name": "古枝小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1089952,
+          33.0781447
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 祐徳神社前 (祐徳自動車)",
+        "name": "祐徳神社前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1089214,
+          33.0688478
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公民分館前 (祐徳自動車)",
+        "name": "公民分館前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1090629,
+          33.0726464
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鮒越入口 (祐徳自動車)",
+        "name": "鮒越入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1093461,
+          33.0744125
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 東山公園入口 (祐徳自動車)",
+        "name": "東山公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1080778,
+          33.064949
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上古枝 (祐徳自動車)",
+        "name": "上古枝",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1084424,
+          33.0572566
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中尾 (祐徳自動車)",
+        "name": "中尾",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1109225,
+          33.050156
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上中尾 (祐徳自動車)",
+        "name": "上中尾",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1127408,
+          33.0400995
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 藤の瀬 (祐徳自動車)",
+        "name": "藤の瀬",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1099905,
+          33.0361056
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 日当山 (祐徳自動車)",
+        "name": "日当山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1089481,
+          33.0336757
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小畑 (祐徳自動車)",
+        "name": "小畑",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1044017,
+          33.0297469
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 赤岩 (祐徳自動車)",
+        "name": "赤岩",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0986227,
+          33.0245491
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 奥山 (祐徳自動車)",
+        "name": "奥山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1102136,
+          33.0904408
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 幸姫酒造前／大村方 (祐徳自動車)",
+        "name": "幸姫酒造前／大村方",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1100632,
+          33.0902786
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 幸姫酒造前／大村方 (祐徳自動車)",
+        "name": "幸姫酒造前／大村方",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1085758,
+          33.0982414
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 石木津 (祐徳自動車)",
+        "name": "石木津",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1081846,
+          33.1000608
+        ]
+      },
+      "properties": {
+        "内容": "バス停: しめご橋 (祐徳自動車)",
+        "name": "しめご橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1020412,
+          33.1043665
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小舟津 (祐徳自動車)",
+        "name": "小舟津",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.100905,
+          33.1043868
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 泉通り (祐徳自動車)",
+        "name": "泉通り",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.100992,
+          33.1044853
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 泉通り (祐徳自動車)",
+        "name": "泉通り",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1019485,
+          33.1015352
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 執行分 (祐徳自動車)",
+        "name": "執行分",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1020041,
+          33.1016794
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 執行分 (祐徳自動車)",
+        "name": "執行分",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0992183,
+          33.1041902
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島市役所・エイブル前",
+        "name": "鹿島市役所・エイブル前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1008491,
+          33.0990243
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末光 (祐徳自動車)",
+        "name": "末光",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1015774,
+          33.0982962
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ララベル前 (祐徳自動車)",
+        "name": "ララベル前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1059759,
+          33.0992439
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ドラモリ・コメリ前 (祐徳自動車)",
+        "name": "ドラモリ・コメリ前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1053012,
+          33.098976
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ドラモリ・コメリ前 (祐徳自動車)",
+        "name": "ドラモリ・コメリ前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0800178,
+          33.1002344
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 伏原入口 (祐徳自動車)",
+        "name": "伏原入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0842577,
+          33.1054942
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 黒川 (祐徳自動車)",
+        "name": "黒川",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0648332,
+          33.1002161
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田分岐 (祐徳自動車)",
+        "name": "塩田分岐",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0653269,
+          33.1003916
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 塩田分岐 (祐徳自動車)",
+        "name": "塩田分岐",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0870072,
+          33.1099821
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西牟田西 (祐徳自動車)",
+        "name": "西牟田西",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0941462,
+          33.1097555
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公園入口 (祐徳自動車)",
+        "name": "公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0949816,
+          33.109568
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公園入口 (祐徳自動車)",
+        "name": "公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0954604,
+          33.1095381
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公園入口 (祐徳自動車)",
+        "name": "公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0949816,
+          33.109568
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 公園入口 (祐徳自動車)",
+        "name": "公園入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0951552,
+          33.1114193
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿島新町 (祐徳自動車)",
+        "name": "鹿島新町",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0885393,
+          33.112013
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 御神松 (祐徳自動車)",
+        "name": "御神松",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0887817,
+          33.1119044
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 御神松 (祐徳自動車)",
+        "name": "御神松",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0920141,
+          33.1114922
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高木眼科前 (祐徳自動車)",
+        "name": "高木眼科前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.091677,
+          33.1114807
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 高木眼科前 (祐徳自動車)",
+        "name": "高木眼科前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9886059,
+          33.1003976
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野市役所前 (祐徳自動車)",
+        "name": "嬉野市役所前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9787553,
+          33.0955805
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野温泉湯の田 (祐徳自動車)",
+        "name": "嬉野温泉湯の田",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.981598,
+          33.0960903
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野温泉バスセンター (祐徳自動車)",
+        "name": "嬉野温泉バスセンター",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.980244,
+          33.0980151
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野老人福祉センター前 (祐徳自動車)",
+        "name": "嬉野老人福祉センター前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9802326,
+          33.0986555
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野老人福祉センター前 (祐徳自動車)",
+        "name": "嬉野老人福祉センター前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9860209,
+          33.1026309
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野小学校前 (祐徳自動車)",
+        "name": "嬉野小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.994962,
+          33.1043177
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 築城 (祐徳自動車)",
+        "name": "築城",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9986265,
+          33.1065767
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野温泉駅 (祐徳自動車)",
+        "name": "嬉野温泉駅",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9977298,
+          33.1050883
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野医療センター (祐徳自動車)",
+        "name": "嬉野医療センター",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9949477,
+          33.1050525
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 築城 (祐徳自動車)",
+        "name": "築城",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9938486,
+          33.1038271
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 築城 (祐徳自動車)",
+        "name": "築城",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9921045,
+          33.1021122
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 温泉四区 (祐徳自動車)",
+        "name": "温泉四区",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9922025,
+          33.1023691
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 温泉四区 (祐徳自動車)",
+        "name": "温泉四区",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9898845,
+          33.100841
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 昭和通り (祐徳自動車)",
+        "name": "昭和通り",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9877645,
+          33.099873
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野市役所前 (祐徳自動車)",
+        "name": "嬉野市役所前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9854074,
+          33.0988275
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ユースポ入口 (祐徳自動車)",
+        "name": "ユースポ入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9845233,
+          33.0985726
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ユースポ入口 (祐徳自動車)",
+        "name": "ユースポ入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9997689,
+          33.1097109
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 今寺 (祐徳自動車)",
+        "name": "今寺",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9997829,
+          33.1095412
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 今寺 (祐徳自動車)",
+        "name": "今寺",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9866592,
+          33.1086211
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野中学校前",
+        "name": "嬉野中学校前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9860722,
+          33.1027842
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野小学校前 (祐徳自動車)",
+        "name": "嬉野小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0068538,
+          33.1300216
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蛍橋 (祐徳自動車)",
+        "name": "蛍橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0067744,
+          33.1297645
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 蛍橋 (祐徳自動車)",
+        "name": "蛍橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.004778,
+          33.1282754
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五代 (祐徳自動車)",
+        "name": "五代",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0047102,
+          33.1280897
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 五代 (祐徳自動車)",
+        "name": "五代",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0014028,
+          33.1178815
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 一井原 (祐徳自動車)",
+        "name": "一井原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0015406,
+          33.1178609
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 一井原 (祐徳自動車)",
+        "name": "一井原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0028934,
+          33.1247756
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 式浪入口 (祐徳自動車)",
+        "name": "式浪入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0029386,
+          33.1246472
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 式浪入口 (祐徳自動車)",
+        "name": "式浪入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9991501,
+          33.1219686
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三坂 (祐徳自動車)",
+        "name": "三坂",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9982892,
+          33.1229087
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三坂 (祐徳自動車)",
+        "name": "三坂",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.995413,
+          33.1278802
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 長谷 (祐徳自動車)",
+        "name": "長谷",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9940587,
+          33.1286018
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 長谷 (祐徳自動車)",
+        "name": "長谷",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9921841,
+          33.1298755
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小田志口",
+        "name": "小田志口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9922269,
+          33.1299665
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小田志口",
+        "name": "小田志口",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9880779,
+          33.1361455
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 日出城 (祐徳自動車)",
+        "name": "日出城",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.987746,
+          33.1356618
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 日出城 (祐徳自動車)",
+        "name": "日出城",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9826454,
+          33.137213
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弓野 (祐徳自動車)",
+        "name": "弓野",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9816005,
+          33.1374734
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弓野 (祐徳自動車)",
+        "name": "弓野",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9788593,
+          33.1387387
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弓野橋 (祐徳自動車)",
+        "name": "弓野橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9784706,
+          33.137998
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 弓野橋 (祐徳自動車)",
+        "name": "弓野橋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.971965,
+          33.138051
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 西川登小前 (祐徳自動車)",
+        "name": "西川登小前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9544756,
+          33.1417613
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神神六 (祐徳自動車)",
+        "name": "神神六",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9669815,
+          33.1379563
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 庭木 (祐徳自動車)",
+        "name": "庭木",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9581676,
+          33.1415357
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神六 (祐徳自動車)",
+        "name": "神六",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9541092,
+          33.1420752
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 神神六 (祐徳自動車)",
+        "name": "神神六",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9445994,
+          33.1547859
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 矢筈 (祐徳自動車)",
+        "name": "矢筈",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9758237,
+          33.1089569
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 嬉野インター",
+        "name": "嬉野インター",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9758896,
+          33.1472463
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宮の前 (祐徳自動車)",
+        "name": "宮の前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9739837,
+          33.1516305
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上高瀬 (祐徳自動車)",
+        "name": "上高瀬",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9677705,
+          33.1648373
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 犬走峠 (祐徳自動車)",
+        "name": "犬走峠",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9679676,
+          33.1649473
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 犬走峠 (祐徳自動車)",
+        "name": "犬走峠",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9693032,
+          33.1711128
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 犬走公民館前 (祐徳自動車)",
+        "name": "犬走公民館前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9699774,
+          33.1741626
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中郷 (祐徳自動車)",
+        "name": "中郷",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9702906,
+          33.1745654
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 中郷 (祐徳自動車)",
+        "name": "中郷",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.971575,
+          33.1774274
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 寺の前 (祐徳自動車)",
+        "name": "寺の前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9737973,
+          33.1802772
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 踊瀬入口 (祐徳自動車)",
+        "name": "踊瀬入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9644434,
+          33.192882
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 山内東小学校前 (祐徳自動車)",
+        "name": "山内東小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9635811,
+          33.1934238
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 山内東小学校前 (祐徳自動車)",
+        "name": "山内東小学校前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9478266,
+          33.1949095
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三間坂駅前 (祐徳自動車)",
+        "name": "三間坂駅前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9511659,
+          33.1949431
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三間坂 (祐徳自動車)",
+        "name": "三間坂",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9546307,
+          33.195322
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 草場前 (祐徳自動車)",
+        "name": "草場前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9604302,
+          33.1959514
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 茅場 (祐徳自動車)",
+        "name": "茅場",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9606686,
+          33.1960532
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 茅場 (祐徳自動車)",
+        "name": "茅場",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9622435,
+          33.1961347
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩井手 (祐徳自動車)",
+        "name": "岩井手",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9628668,
+          33.195845
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩井手 (祐徳自動車)",
+        "name": "岩井手",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9632811,
+          33.1963285
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 岩井手 (祐徳自動車)",
+        "name": "岩井手",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9809099,
+          33.1932745
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 永尾駅前 (祐徳自動車)",
+        "name": "永尾駅前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9803157,
+          33.1937363
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 永尾駅前 (祐徳自動車)",
+        "name": "永尾駅前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9837704,
+          33.1904796
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 踊瀬 (祐徳自動車)",
+        "name": "踊瀬",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9836197,
+          33.1904097
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 踊瀬 (祐徳自動車)",
+        "name": "踊瀬",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9879812,
+          33.1857942
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 踊瀬ダム前",
+        "name": "踊瀬ダム前",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9942785,
+          33.1840519
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下山入口 (祐徳自動車)",
+        "name": "下山入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9948251,
+          33.1840894
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 下山入口 (祐徳自動車)",
+        "name": "下山入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9977765,
+          33.1853734
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 谷口眼科前 (祐徳自動車)",
+        "name": "谷口眼科前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0242512,
+          33.1894214
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ゆめタウン武雄 (祐徳自動車)",
+        "name": "ゆめタウン武雄",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0240803,
+          33.1896124
+        ]
+      },
+      "properties": {
+        "内容": "バス停: ゆめタウン武雄 (祐徳自動車)",
+        "name": "ゆめタウン武雄",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.8976625,
+          33.1895387
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 札の辻 (西肥バス)",
+        "name": "札の辻",
+        "operator": "西肥バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9385133,
+          33.2039467
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9944712,
+          33.2151926
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 本谷入口 (祐徳自動車)",
+        "name": "本谷入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0183774,
+          33.2048079
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 円応寺馬場 (祐徳自動車)",
+        "name": "円応寺馬場",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0216429,
+          33.203609
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 川良東 (祐徳自動車)",
+        "name": "川良東",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0238497,
+          33.201157
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 水道公園前 (祐徳自動車)",
+        "name": "水道公園前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.972257,
+          33.2270367
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 馬場 (祐徳自動車)",
+        "name": "馬場",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9762429,
+          33.2208994
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 上古賀 (祐徳自動車)",
+        "name": "上古賀",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9777396,
+          33.2181705
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 宇土谷 (祐徳自動車)",
+        "name": "宇土谷",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.97999,
+          33.2154352
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 長谷入口 (祐徳自動車)",
+        "name": "長谷入口",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9831359,
+          33.2146321
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 一軒茶屋 (祐徳自動車)",
+        "name": "一軒茶屋",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0010426,
+          33.2160872
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 赤穂山 (祐徳自動車)",
+        "name": "赤穂山",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0237828,
+          33.2010141
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 水道公園前 (祐徳自動車)",
+        "name": "水道公園前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.025231,
+          33.1992053
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 小楠 (祐徳自動車)",
+        "name": "小楠",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0211542,
+          33.1945179
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄市役所前 (祐徳自動車)",
+        "name": "武雄市役所前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0211741,
+          33.1943552
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 武雄市役所前 (祐徳自動車)",
+        "name": "武雄市役所前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0232411,
+          33.1929325
+        ]
+      },
+      "properties": {
+        "内容": "バス停: マルキョウ前 (祐徳自動車)",
+        "name": "マルキョウ前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0231401,
+          33.1928886
+        ]
+      },
+      "properties": {
+        "内容": "バス停: マルキョウ前 (祐徳自動車)",
+        "name": "マルキョウ前",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.963949,
+          33.2264645
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 梅の原 (祐徳自動車)",
+        "name": "梅の原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9628529,
+          33.2177165
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 海正原 (祐徳自動車)",
+        "name": "海正原",
+        "operator": "祐徳自動車",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9961155,
+          33.3728594
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 三段間 (昭和バス)",
+        "name": "三段間",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9806466,
+          33.3927223
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 山本 (昭和バス)",
+        "name": "山本",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9811417,
+          33.3921829
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 山本 (昭和バス)",
+        "name": "山本",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9868494,
+          33.4204058
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚駅前 (昭和バス)",
+        "name": "鬼塚駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9861005,
+          33.4175185
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚 (昭和バス)",
+        "name": "鬼塚",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9851241,
+          33.4166186
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚 (昭和バス)",
+        "name": "鬼塚",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9866346,
+          33.4205742
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚駅前 (昭和バス)",
+        "name": "鬼塚駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9779319,
+          33.3975547
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 唐津自動車学校前 (昭和バス)",
+        "name": "唐津自動車学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9774191,
+          33.3982269
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 唐津自動車学校前 (昭和バス)",
+        "name": "唐津自動車学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9741875,
+          33.4015873
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚中学校前 (昭和バス)",
+        "name": "鬼塚中学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9733439,
+          33.404305
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 川原橋 (昭和バス)",
+        "name": "川原橋",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9741274,
+          33.4018457
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鬼塚中学校前 (昭和バス)",
+        "name": "鬼塚中学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9735143,
+          33.4051114
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 川原橋 (昭和バス)",
+        "name": "川原橋",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9784136,
+          33.4088342
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 春日様前 (昭和バス)",
+        "name": "春日様前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9790575,
+          33.4096323
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 春日様前 (昭和バス)",
+        "name": "春日様前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0048768,
+          33.3584986
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久保 (昭和バス)",
+        "name": "久保",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0043345,
+          33.3577558
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 久保 (昭和バス)",
+        "name": "久保",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0017606,
+          33.3670283
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 牟田部 (昭和バス)",
+        "name": "牟田部",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.001035,
+          33.367511
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 牟田部 (昭和バス)",
+        "name": "牟田部",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.2996987,
+          33.2644685
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 名称不明バス停",
+        "name": "名称不明バス停",
+        "operator": "事業者不明",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0197219,
+          33.3471999
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知駅前 (昭和バス)",
+        "name": "相知駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0197794,
+          33.3472789
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知駅前 (昭和バス)",
+        "name": "相知駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0061723,
+          33.35307
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知下 (昭和バス)",
+        "name": "相知下",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0058769,
+          33.3530834
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知下 (昭和バス)",
+        "name": "相知下",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0114767,
+          33.3508608
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知市民センター前 (昭和バス)",
+        "name": "相知市民センター前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0110489,
+          33.3510042
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 相知市民センター前 (昭和バス)",
+        "name": "相知市民センター前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0082476,
+          33.3523128
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末広町 (昭和バス)",
+        "name": "末広町",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0086521,
+          33.3520747
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 末広町 (昭和バス)",
+        "name": "末広町",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9848015,
+          33.3841005
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿の口 (昭和バス)",
+        "name": "鹿の口",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9853735,
+          33.3836761
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 鹿の口 (昭和バス)",
+        "name": "鹿の口",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0608216,
+          33.3230815
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木駅前 (昭和バス)",
+        "name": "厳木駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0608724,
+          33.3232028
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木駅前 (昭和バス)",
+        "name": "厳木駅前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0653314,
+          33.3213573
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木市民センター前 (昭和バス)",
+        "name": "厳木市民センター前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.065183,
+          33.3214922
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木市民センター前 (昭和バス)",
+        "name": "厳木市民センター前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0656548,
+          33.318504
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木中学校前 (昭和バス)",
+        "name": "厳木中学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.0660493,
+          33.3167002
+        ]
+      },
+      "properties": {
+        "内容": "バス停: 厳木中学校前 (昭和バス)",
+        "name": "厳木中学校前",
+        "operator": "昭和バス",
+        "ref": "",
+        "url": "",
+        "url2": ""
+      }
+    }
+  ]
+}
